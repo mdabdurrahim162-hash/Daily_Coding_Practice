@@ -5,4 +5,5 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/mdabdurrahim162-hash/Daily_Coding_Practice/tree/master/0178-rank-scores) |
+| [0196-delete-duplicate-emails](https://github.com/mdabdurrahim162-hash/Daily_Coding_Practice/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
